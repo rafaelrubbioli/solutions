@@ -6,6 +6,8 @@
 
 - [Maximum Subarray](maxsubarray)
 
+- [Merge Sorted Lists](mergesortedlists)
+
 ## Platforms
 - https://www.urionlinejudge.com.br/judge/pt/profile
 - https://www.hackerrank.com/RafaelRubbioli
