@@ -1,6 +1,6 @@
-https://leetcode.com/problems/merge-two-sorted-lists/
-
 # Merge two sorted lists
+
+https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Example 1
 Input: l1 = [1,2,4], l2 = [1,3,4]
