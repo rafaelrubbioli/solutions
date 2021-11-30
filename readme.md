@@ -7,6 +7,7 @@
 - [Binary Tree Right Side View](rightsideview)
 - [Falling Squares](fallingsquares)
 - [Reducing Dishes](reducingdishes)
+- [Count and say](countandsay)
 
 ## Platforms
 - https://www.urionlinejudge.com.br/judge/pt/profile
