@@ -13,3 +13,6 @@
 - https://www.urionlinejudge.com.br/judge/pt/profile
 - https://www.hackerrank.com/RafaelRubbioli
 - https://leetcode.com/rafaelrubbioli/
+
+## Events
+- [Advent of code](adventofcode)
