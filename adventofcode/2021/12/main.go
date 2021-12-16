@@ -8,20 +8,6 @@ import (
 	"strings"
 )
 
-//	start-A
-//	start-b
-//	A-c
-//	A-b
-//	b-d
-//	A-end
-//	b-end
-
-//		start
-//		/   \
-//	c--A-----b--d
-//		\   /
-//		end
-
 func isSmall(s string) bool {
 	return strings.ToUpper(s) != s
 }
